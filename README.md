@@ -28,7 +28,10 @@ Params : 10.788929 Million
 - GPUs
 
 ## Inference 
-> Comming Soon !
+> [SriptGPT-small](https://huggingface.co/SRDdev/ScriptGPT-small) 
+
+> [Sript_GPT](https://huggingface.co/SRDdev/Script_GPT) 
+
 
 ## References
 - "Attention is All You Need" by Ashish Vaswani, et al. (https://arxiv.org/abs/1706.03762)
